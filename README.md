@@ -1,5 +1,8 @@
-### Hi there 👋 ,
-### I'm Rasika, a Full-stack developer with a belief that channeling passion is the secret sauce to unlocking boundless possibilities in the realm of code.
+### Hi there 👋 
+<img src="https://raw.githubusercontent.com/Rasika-exol/Rasika-exol/master/github-banner.png" alt="Rasika">
+
+
+###    I'm Rasika, a Full-stack developer with a belief that channeling passion is the secret sauce to unlocking boundless possibilities in the realm of code.
 
 ### My Github stats 
 
