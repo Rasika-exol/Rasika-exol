@@ -1,6 +1,5 @@
 ### Hi there 👋 ,
-### I'm Rasika, a Full-stack developer who believes harnessing passion is the key to bringing endless possibilities to life
-
+### I'm Rasika, a Full-stack developer with a belief that channeling passion is the secret sauce to unlocking boundless possibilities in the realm of code.
 
 ### My Github stats 
 
