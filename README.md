@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hello git🐝's
 <img src="https://raw.githubusercontent.com/Rasika-exol/Rasika-exol/master/github-banner.png" alt="Rasika">
 
 **About me**
