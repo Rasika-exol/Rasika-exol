@@ -12,7 +12,7 @@
 
 ### My Github stats 
 
-| <a href="https://github.com/Rasika-exol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasika-exol&show_icons=true" alt="Rasika's github stats" /></a> | <a href="https://github.com/Rasika-exol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika-exol&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Rasika-exol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rasika-exol&show_icons=true" alt="Rasika's github stats" /></a> | <a href="https://github.com/Rasika-exol/github-readme-stats&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika-exol&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
